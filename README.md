@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello! Welcome to my GitHub profile.
 
-<!--
-**benyameen-zeev/benyameen-zeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Benjamin. I'm studying Computer Science at Old Dominion University and working as an IT tech for a local manufacturing company. My goal after graduation is to seek a job in DevOps. 
 
-Here are some ideas to get you started:
+## My projects
+### DealerLocator 
+A small web application designed for manufacturing companies and vendors for quick access to dealer information and locations. 
+https://github.com/benyameen-zeev/DealerLocator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Marco Metals Website
+(private repository) I designed and continue to manage the website for Marco Metals LLC, a metal-manufacturing plant located in Virginia. 
+https://www.marcometals.com 
+
+## Programming languages
+- Python
+- C++
+- Java
+- GDScript (For the Godot engine)
+
